@@ -319,7 +319,7 @@ export default function HinduPriestWebsite() {
                 >
                   <div className="text-7xl mb-6"></div>
                   <h1 className="text-5xl md:text-7xl font-bold bg-gradient-to-r from-amber-700 via-red-700 to-orange-700 bg-clip-text text-transparent mb-6">
-                    Acharya Pandit Ji
+                    Acharya Manikya Sharma
                   </h1>
                   <p className="text-xl md:text-2xl text-amber-800 mb-8 leading-relaxed font-medium">
                     Experienced Hindu Priest & Spiritual Guide

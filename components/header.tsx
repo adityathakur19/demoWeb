@@ -43,7 +43,7 @@ export default function Header() {
                 <div className="text-white font-bold text-lg">P</div>
               </div>
               <div>
-                <h1 className="font-bold text-lg text-amber-900">Pandit Ji</h1>
+                <h1 className="font-bold text-lg text-amber-900">Manikaya Sharma</h1>
            {/*     <p className="text-xs text-amber-700">Spiritual Guide</p> */}
               </div>
             </motion.div>
